@@ -7,8 +7,8 @@ This project demonstrates a React frontend connected to a locally running LM Stu
 - LM Studio (local server running)
 
 ## Setup
-npm install
-npm start
+- npm install
+- npm start
 
 ## Notes
 LM Studio runs locally; models are not included in this repo.
